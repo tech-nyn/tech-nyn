@@ -37,7 +37,7 @@ Fullstack web and mobile developer with proficiency in multiple programming lang
 ## Connect
 -  <img src="img/ig.png" width="16"> Instagram
 -  <img src="img/whatsapp.png" width="16"> whatsapp
--  <img src="img/twitter.png" width="16"> Twitter
+-  <img src="img/twitter.png" width="20"> Twitter
 -  <img src="img/linkedin.png" width="16"> Linkedin
 
 
