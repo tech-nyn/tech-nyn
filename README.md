@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![banner-image](img/git-hub-profile-banner.png )
+![banner-image](img/git-hub-profile-banner.png)
+
+## Bio ##
+Fullstack web and mobile developer with proficiency in multiple programming languages and technologies such as cross-platform applications, operating systems, API development and integration, virtualization, networking, cloud computing, system and software design, software testing, versioning, responsive and reactive user interfaces and implementing complex business logic.
+
 
 <!--
 **tech-nyn/tech-nyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
