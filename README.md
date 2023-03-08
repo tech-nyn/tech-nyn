@@ -34,6 +34,12 @@ Fullstack web and mobile developer with proficiency in multiple programming lang
 -  <img src="img/android-studio.png" width="16"> Andrid Studio
 -  <img src="img/x-code.png" width="16"> Xcode
 
+## Connect
+-  <img src="img/ig.png" width="16"> Instagram
+-  <img src="img/whatsapp.png" width="16"> whatsapp
+-  <img src="img/twitter.png" width="16"> Twitter
+-  <img src="img/linkedin.png" width="16"> Linkedin
+
 
 <!--
 **tech-nyn/tech-nyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
