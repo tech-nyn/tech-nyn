@@ -19,7 +19,7 @@ Fullstack web and mobile developer with proficiency in multiple programming lang
 -  <img src="img/bash.png" width="20"> Bash Script
 
 ## Frameworks
--  <img src="img/flutter.png" width="10"> Flutte
+-  <img src="img/flutter.png" width="10"> Flutter
 -  <img src="img/django.png" width="16"> Django
 -  <img src="img/react.png" width="16"> React
 -  <img src="img/react-native.png" width="18"> React Native
@@ -35,10 +35,10 @@ Fullstack web and mobile developer with proficiency in multiple programming lang
 -  <img src="img/x-code.png" width="16"> Xcode
 
 ## Connect
--  <img src="img/ig.png" width="16"> Instagram
--  <img src="img/whatsapp.png" width="16"> whatsapp
--  <img src="img/twitter.png" width="20"> Twitter
--  <img src="img/linkedin.png" width="16"> Linkedin
+-  <img src="img/ig.png" width="16"> [Instagram](https://instagram.com/d3ad_s0ul_x)
+-  <img src="img/whatsapp.png" width="16"> [whatsapp](https://Wa.me/2349055677860)
+-  <img src="img/twitter.png" width="20"> [Twitter](https://twitter.com/dhulqarnayn4)
+-  <img src="img/linkedin.png" width="16"> [Linkedin](https://LinkedIn.com/in/zulu-qarnayn)
 
 
 <!--
