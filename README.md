@@ -8,31 +8,31 @@ Fullstack web and mobile developer with proficiency in multiple programming lang
 
 ## Languages
 
-<img src="img/html.png" width="16"> HTML\
-<img src="img/css.png" width="16"> CSS\
-<img src="img/cpp.png" width="16"> C++\
-<img src="img/sql.png" width="16"> SQL\
-<img src="img/dart.png" width="16"> Dart\
-<img src="img/ruby.png" width="16"> Ruby\
-<img src="img/python.png" width="16"> Python\
-<img src="img/js.png" width="14"> JavaScript\
-<img src="img/bash.png" width="20"> Bash Script
+-  <img src="img/html.png" width="16"> HTML
+-  <img src="img/css.png" width="16"> CSS
+-  <img src="img/cpp.png" width="16"> C+
+-  <img src="img/sql.png" width="16"> SQL
+-  <img src="img/dart.png" width="16"> Dart
+-  <img src="img/ruby.png" width="16"> Ruby
+-  <img src="img/python.png" width="16"> Python
+-  <img src="img/js.png" width="14"> JavaScript
+-  <img src="img/bash.png" width="20"> Bash Script
 
 ## Frameworks
-<img src="img/flutter.png" width="10"> Flutter\
-<img src="img/django.png" width="16"> Django\
-<img src="img/react.png" width="16"> React\
-<img src="img/react-native.png" width="18"> React Native\
-<img src="img/ruby-on-rails.png" width="16"> Ruby on Rails\
-<img src="img/fast-api.png" width="16"> Fast API
+-  <img src="img/flutter.png" width="10"> Flutte
+-  <img src="img/django.png" width="16"> Django
+-  <img src="img/react.png" width="16"> React
+-  <img src="img/react-native.png" width="18"> React Native
+-  <img src="img/ruby-on-rails.png" width="16"> Ruby on Rails
+-  <img src="img/fast-api.png" width="16"> Fast API
 
 ## Tools
-<img src="img/flutter-flow.png" width="16"> Flutter Flow\
-<img src="img/linux.png" width="20"> Linux\
-<img src="img/git.png" width="16"> git\
-<img src="img/vs-codium.png" width="16"> VS Codium\
-<img src="img/android-studio.png" width="16"> Andrid Studio\
-<img src="img/x-code.png" width="16"> Xcode
+-  <img src="img/flutter-flow.png" width="16"> Flutter Flow
+-  <img src="img/linux.png" width="20"> Linux
+-  <img src="img/git.png" width="16"> git
+-  <img src="img/vs-codium.png" width="16"> VS Codium
+-  <img src="img/android-studio.png" width="16"> Andrid Studio
+-  <img src="img/x-code.png" width="16"> Xcode
 
 
 <!--
